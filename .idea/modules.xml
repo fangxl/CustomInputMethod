@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidXXIME-1.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidXXIME-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidXXIME-1.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidXXIME-1.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_keyboard/AndroidXXIME-1.lib_keyboard.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_keyboard/AndroidXXIME-1.lib_keyboard.iml" />
+    </modules>
+  </component>
+</project>
